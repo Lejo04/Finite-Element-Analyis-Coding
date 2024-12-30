@@ -2,7 +2,7 @@
 import numpy as np
 import sympy as sp
 
-#Input file path (File path needs to be change accordingly otherwise FileNotFoundError will occur
+#Input file path (File path needs to be changed accordingly otherwise FileNotFoundError will occur
 #The input file used for this code is "Abaqus.txt" and was submitted with the python script)
 inputfile='C:\\Users\sikaj\\Desktop\\FEACodingProject\\AbaqusInp.txt';
 #Coordinate definition
